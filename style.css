@@ -1,0 +1,185 @@
+body{
+margin:0;
+background-color: #0d3748;
+}
+.sectionhero{
+	background-color: #948c7c;
+}
+.korobka0{
+	color:#0d3748;
+	background-color: #948c7c; 
+	text-align: center;
+	height: 100vh;
+	width: 100%;
+	margin: 0 15px 0 15px;
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    h1{
+        font-size: 100px;
+    }
+}
+
+.korobka{
+	color:#0d3748;
+	background-color: #948c7c; 
+	text-align: center;
+	height: 100vh;
+	width: 100%;
+    margin: 0 20px 0 20px;
+    align-items: center;
+    h1{
+        font-size: 100px;
+    }
+
+}
+img{
+	width: 400px;
+	height: 400px;
+	
+}
+.dflex{
+	display: flex;
+}
+.btn{
+    background-color:#75b6d4;
+    color: #124e65;
+    font-size: 50px;
+    text-decoration:none;
+    padding: 10px 30px;
+    margin: 0 0 5px 5px ;
+}
+nav{
+    height: 90px;
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+    background-color:#124e65;
+}
+.link{
+    font-size: 20px;
+    margin: 0 0 0 50px;
+    color:#b8915f;
+    cursor: pointer;
+    text-decoration: none;
+}
+.logo{
+    cursor: pointer;
+    font-size: 30px;
+    color:#f7f2e5 ;
+    font-weight: 600;
+    border: 1px solid #75b6d4;
+    padding: 10px 60px;
+}
+.right{
+    position: absolute;
+    right: 80px;
+}
+.btn_krasiviy{
+    background-color:#b8915f;
+    color:#0d3748 ;
+    padding: 7px 30px;
+    font-size: 25px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.btn_krasiviy:hover{
+    background-color:#f7f2e5;
+    color: #0d3748;
+    box-shadow: 0 0 3px 3px #0d3748
+}
+.korobka1{
+    color:#066b93;
+	background-color: #e8e5de; 
+	text-align: center;
+	height: 100vh;
+	width: 100%;
+    h1{
+        font-size: 100px;
+    }
+    h2{
+        font-size: 40px;
+    }
+    h3{
+        font-size: 20px;
+    }
+}
+.korobka12{
+    color:#066b93;
+	background-color: #e8e5de; 
+	text-align: center;
+	height: 100vh;
+	width: 100%;
+    h1{
+        font-size: 100px;
+    }
+    h2{
+        font-size: 24px;
+      }
+}
+.prizrak{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+     cursor: pointer;
+    text-decoration: none;
+
+}
+.t200{
+    top: 200px;
+
+}
+.t300{
+    top: 270px;
+
+}.t400{
+    top: 340px;
+
+}
+.t600{
+    top: 480px;
+}
+.t700{
+   top: 550px; 
+}
+.t500{
+    top: 410px;
+}
+.korobka2{
+    color:#0d3748;
+	background-color: #948c7c; 
+	text-align: center;
+    width: 100%;
+    img{
+        width:200px;
+        height: 200px;
+        box-shadow: 0 0 3px 3px #d64597
+    }
+}
+.korobka3{
+	color:#0d3748;
+	background-color: #948c7c; 
+	text-align: center;
+	height: 200vh;
+	width: 100%;
+    margin: 0 20px 0 20px;
+    align-items: center;
+    h1{
+        font-size: 100px;
+    }
+
+}
+.btn1{
+    background-color:#0b3f57;
+    color: #b8915f;
+    font-size: 50px;
+    text-decoration:none;
+    padding: 10px 30px;
+}
+.korobka4{
+    width:69%;
+}
+.prizrak:hover{
+ 
+    box-shadow: 0 0 3px 3px #124e65
+}
